@@ -1,6 +1,6 @@
 code[class*="language-"],
 pre[class*="language-"] {
-  color: #d6deeb;
+  color: #f8f8f2;
   font-family: Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
   text-align: left;
   white-space: pre;
@@ -24,7 +24,7 @@ pre[class*="language-"] ::-moz-selection,
 code[class*="language-"]::-moz-selection,
 code[class*="language-"] ::-moz-selection {
   text-shadow: none;
-  background: rgba(29, 59, 83, 0.99);
+  background: #5a5475;
 }
 
 pre[class*="language-"]::selection,
@@ -32,7 +32,7 @@ pre[class*="language-"] ::selection,
 code[class*="language-"]::selection,
 code[class*="language-"] ::selection {
   text-shadow: none;
-  background: rgba(29, 59, 83, 0.99);
+  background: #5a5475;
 }
 
 @media print {
@@ -52,7 +52,7 @@ pre[class*="language-"] {
 :not(pre) > code[class*="language-"],
 pre[class*="language-"] {
   color: white;
-  background: #011627;
+  background: #5a5475;
 }
 
 :not(pre) > code[class*="language-"] {
@@ -61,82 +61,75 @@ pre[class*="language-"] {
   white-space: normal;
 }
 
-.token.comment,
-.token.prolog,
-.token.cdata {
-  color: rgb(99, 119, 119);
-  font-style: italic;
+
+.token.comment {
+  color: #E6C000;
+  
 }
 
-.token.punctuation {
-  color: rgb(199, 146, 234);
-}
-
-.namespace {
-  color: rgb(178, 204, 214);
-}
-
-.token.deleted {
-  color: rgba(239, 83, 80, 0.56);
-  font-style: italic;
-}
-
-.token.symbol,
-.token.property {
-  color: rgb(128, 203, 196);
-}
-
-.token.tag,
-.token.operator,
-.token.keyword {
-  color: rgb(127, 219, 202);
-}
-
-.token.boolean {
-  color: rgb(255, 88, 116);
+.token.string {
+  color: #FFEA00;
+  
 }
 
 .token.number {
-  color: rgb(247, 140, 108);
+  color: #C5A3FF;
+  
 }
 
-.token.constant,
-.token.function,
-.token.builtin,
+.token.builtin {
+  color: #C5A3FF;
+  
+}
+
 .token.char {
-  color: rgb(130, 170, 255);
+  color: #C5A3FF;
+  
 }
 
-.token.selector,
-.token.doctype {
-  color: rgb(199, 146, 234);
-  font-style: italic;
+.token.constant {
+  color: #C5A3FF;
+  
 }
 
-.token.attr-name,
-.token.inserted {
-  color: rgb(173, 219, 103);
-  font-style: italic;
+.token.class-name {
+  color: #FFF352;
+  
 }
 
-.token.string,
-.token.url,
-.token.entity,
-.language-css .token.string,
-.style .token.string {
-  color: rgb(173, 219, 103);
+.token.function {
+  color: #FFF352;
+  
 }
 
-.token.class-name,
-.token.atrule,
-.token.attr-value {
-  color: rgb(255, 203, 139);
+.token.attr-name {
+  color: #FFF352;
+  
 }
 
-.token.regex,
-.token.important,
 .token.variable {
-  color: rgb(214, 222, 235);
+  color: #D5C6F0;
+  
+}
+
+.token.tag {
+  color: #FFB8D1;
+  
+}
+
+.token.deleted {
+  color: #FA736E;
+  
+}
+
+.token.changed {
+  color: #FA9D99;
+  
+}
+
+.token.inserted {
+  color: #AFECAD;
+  
 }
 
 .token.important,

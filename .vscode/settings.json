@@ -25,4 +25,10 @@
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "editor.inlineSuggest.enabled": false,
+  "workbench.colorTheme": "fairyfloss",
+  "editor.fontFamily": "Ubuntu Mono",
+  "markdown.preview.fontFamily": "Segoe UI",
+  "markdown.preview.fontSize": 13,
+  "markdown.preview.lineHeight": 1.5,
 }
