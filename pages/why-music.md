@@ -4,6 +4,8 @@ tags: music creative-process
 
 # Why do we make music?
 
+Why do we partake in [[music-composition|music composition]]?
+
 - being part of the _grand human creative process_
 - because the point is to simply do, not be the best
 - it's comforting in its absence

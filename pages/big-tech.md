@@ -1,5 +1,5 @@
 ---
-tags: tech computer computer-science
+tags: tech computer computer-science tech-industry
 ---
 
 # Big Tech

@@ -12,4 +12,4 @@ For any particular input setting of a given circuit, we can calculate the output
 
 However, to test _all_ inputs for a given circuit (and therefore solve `CircuitSAT`), nobody knows how to solve it faster than brute-forcing all $2^n$ possible inputs.
 
-However, no one has formally proven that we _can't_ beat brute force, so there may be some clever, undiscovered algorithm.
+However, no one has formally proven that we _can't_ beat brute force, so there may be some clever, undiscovered [[algorithm]].

@@ -6,12 +6,14 @@ import { MDXProvider } from '@mdx-js/react'
 import CodeBlock from '../components/CodeBlock'
 import AnchorTag from '../components/AnchorTag'
 import Image from '../components/Image'
+import Heading from '../components/Heading'
 
 const mdComponents = {
     a: props => <AnchorTag {...props} />,
     code: CodeBlock,
     img: (props) => <div className="nextImageWrapper"><Image  {...props} /></div>,
-    Image: (props) => <div className="nextImageWrapper"><Image  {...props} /></div>
+    Image: (props) => <div className="nextImageWrapper"><Image  {...props} /></div>,
+    h2: (props) => <Heading {...props} />
 }
 
 export default function App({ Component, pageProps }) {
