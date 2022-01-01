@@ -12,7 +12,7 @@ this is for me, mostly 😅 i had used [Notion](https://www.notion.so/) for the 
 
 however, i needed a way to easily link overlapping concepts and information from the many sources i was consuming - school, social media, friends & family, late night wikipedia rabbit holes, etc.
 
-[Foam](https://foambubble.github.io/), and Zettelkasten (TODO: add link to deployment page) concepts of notetaking as a whole, are my in-progress solution to this problem.
+[Foam](https://foambubble.github.io/), and [Zettelkasten](https://renzo-garden.vercel.app/zettelkasten) concepts of notetaking as a whole, are my in-progress solution to this problem.
 
 moreover, i also want the information i'm learning from university to be more accessible and placed in context with my own personal interests. so anyone can use this information, regardless of if you're a student - my goal is to use this method of notetaking for as long as i want to keep learning.
 

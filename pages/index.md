@@ -24,11 +24,7 @@ i used a [template by `yenly` on GitHub that uses Next.js in conjunction with Fo
 
 this deployment is not perfect. the best way to view this is to download the [repository](https://github.com/renzol2/digital-garden) and use VSCode alongside the Foam VSCode extension (instructions are on the [Foam website](https://foambubble.github.io/foam/#getting-started) but i'll write my own instructions eventually)
 
-i'm keeping a running list of issues with this deployment on the [issues page of the repository](https://github.com/renzol2/digital-garden/issues), but here's a list of things that i know are broken:
-
-- LaTeX isn't working - need to get an MDX plugin for that
-- frontmatter is still rendered when it shouldn't be, leading to all the tags being displayed (they shouldn't be there, or at least should be smaller...)
-- backlinks aren't present, which are useful but something i would have to try implementing myself
+i'm keeping a running list of issues with this deployment on the [issues page of the repository](https://github.com/renzol2/digital-garden/issues)
 
 anyway, i'm very indecisive and constantly looking for better solutions, so i might ditch this deployment in favor of something better.
 
