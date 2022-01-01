@@ -72,7 +72,7 @@ Decolonization is violent because colonization is violent in many ways:
 
 Colonial power does not give up authority willingly or easily - undoing colonization is inevitably a struggle, but a necessary one.
 
-## 3. We don't decolonize oppressive colonial systems - we _dismantle_ them
+## 3. We don't decolonize oppressive colonial systems - we dismantle them
 
 > The master's tools will never dismantle the master's house - Audre Lorde
 
