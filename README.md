@@ -4,7 +4,7 @@ welcome to my digital garden!
 
 this repository is my primary note-taking tool, made with [Foam](https://foambubble.github.io/) (among other things). any notes i take, whether for class, self-learning, or personal discovery, i will likely add it here.
 
-TODO: add deployment link
+you can view the deployment here: <https://renzo-garden.vercel.app/>
 
 ## who is this for?
 

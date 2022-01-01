@@ -13,7 +13,7 @@
   "files.watcherExclude": {
     "**/node_modules": true
   },
-  "foam.edit.linkReferenceDefinitions": "withoutExtensions",
+  "foam.edit.linkReferenceDefinitions": "withExtensions",
   "foam.openDailyNote.directory": "journal",
   "foam.openDailyNote.titleFormat": "fullDate",
   "git.enableSmartCommit": true,
@@ -26,9 +26,25 @@
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
   "editor.inlineSuggest.enabled": false,
-  "workbench.colorTheme": "Dracula",
-  "editor.fontFamily": "Fantasque Sans Mono",
-  "markdown.preview.fontFamily": "Segoe UI",
+  "workbench.colorTheme": "Gray Matter Dark",
+  "editor.fontFamily": "Cascadia Mono",
+  "markdown.preview.fontFamily": "DejaVu Sans",
+  "markdown-preview-enhanced.previewTheme": "vue.css",
   "markdown.preview.fontSize": 13,
   "markdown.preview.lineHeight": 1.5,
+  "markdown-links.graphType": "obsidian",
+  "markless.inlineCode": false,
+  "markless.inlineImage.autoPreview": false,
+  "markless.inlineImage.enabled": false,
+  "foam.graph.style": {
+    "fontSize": 10,
+    "particleWidth": 1.2,
+    "highlightedForeground": "#CC6577",
+    "node": {
+      "music-review": "teal",
+      "daily-note": "purple"
+    }
+  },
+  "editor.lineNumbers": "off",
+  "workbench.statusBar.visible": false
 }
