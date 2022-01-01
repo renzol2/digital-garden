@@ -10,7 +10,7 @@ It evolved from the Chamberlin and improved that design to facilitate mass produ
 
 It consists of a polyphonic tape-replay keyboard, which uses motorized tape rollers that pinch the tape and runs it across a playhead when a key is pressed.
 
-![Mellotron](../attachments/mellotron.png)
+![Mellotron](/attachments/mellotron.png)
 
 ## In music
 

@@ -6,7 +6,7 @@ tags: philippines maguindanao region culture mindanao
 
 **Maguindanao** is a southern province in the [[Philippines]], located on the island of [[Mindanao]]. It is situated along the banks of _Pulangi_, a major waterway that tends to overflow and turns the surrounding valley into a vast lake (_danao_).
 
-![Maguindanao location](../attachments/maguindanao-location.png)
+![Maguindanao location](/attachments/maguindanao-location.png)
 
 ## The Maguindanaon
 

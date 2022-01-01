@@ -19,7 +19,7 @@ Number of resolution points = $2^{\text{bit depth}}$
 
 Consider the analog-to-digital conversion process in a 3-bit system:
 
-![Analog-to-digital conversion process in a 3-bit system](../attachments/analog-to-digital-conversion-3-bit.png)
+![Analog-to-digital conversion process in a 3-bit system](/attachments/analog-to-digital-conversion-3-bit.png)
 
 The [[amplitude]] of each sample is quantized to a particular bit and encoded into binary. Through [[pulse-code-modulation|PCM]], we then encode the binary into a modulated pulse wave.
 

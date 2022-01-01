@@ -23,7 +23,7 @@ Key concepts for understanding this function:
 - multiplying the exponential by the original input $g(t)$ means drawing a wound up version of that graph around the origin
 - an integral of a complex valued function can be interpreted in terms of a center-of-mass idea
 
-![3Blue1Brown's visual introduction to Fourier Transforms](../attachments/fourier-transform-visual-example.png)
+![3Blue1Brown's visual introduction to Fourier Transforms](/attachments/fourier-transform-visual-example.png)
 
 ## Sound
 

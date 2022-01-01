@@ -14,7 +14,7 @@ A sound is _harmonic_ if its [[spectrum]] exhibits characteristics of the harmon
 
 The first 16 harmonics of the harmonic series can be closely approximated with standard musical notation:
 
-![Harmonic series approximation](../attachments/harmonic-series-approximation.png)
+![Harmonic series approximation](/attachments/harmonic-series-approximation.png)
 
 ## Sources
 

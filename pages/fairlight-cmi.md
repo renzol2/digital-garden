@@ -10,7 +10,7 @@ The **Fairlight CMI** is an early, [[digital-audio|digital]] [[sampling-composit
 - Capable of storing [[bit-depth|8-bit]] audio
 - Featured a computer screen with touch-sensitive light pen for navigation
 
-![Fairlight CMI](../attachments/fairlight-cmi.png)
+![Fairlight CMI](/attachments/fairlight-cmi.png)
 
 ## Sources
 

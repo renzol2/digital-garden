@@ -10,7 +10,7 @@ The **E-Mu Emulator I** is an early, [[digital-audio|digital]] [[sampling-compos
 - Had a hard drive to store sample data
 - 128 kB of sample memory
 
-![E-Mu Emulator I](../attachments/e-mu-emulator-i.png)
+![E-Mu Emulator I](/attachments/e-mu-emulator-i.png)
 
 ## Sources
 

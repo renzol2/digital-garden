@@ -22,13 +22,13 @@ The use of BEOs has several benefits in SMS:
 - easier to manipulate sinusoidal and noise components together
 - less expensive than using additional oscillators
 
-![BEO spectrograms](../attachments/bandwidth-enhanced-oscillator-spectrograms.png)
+![BEO spectrograms](/attachments/bandwidth-enhanced-oscillator-spectrograms.png)
 
 ## Bandwidth Envelope
 
 The bandwidth envelope $\beta(n)$ controls "noisiness" (how much energy from the partial is spread to nearby frequencies) by multiplying the amplitude envelope of a partial by a variable amount of narrowband noise.
 
-![BEO circuit](../attachments/bandwidth-enhanced-oscillator-circuit-diagram.png)
+![BEO circuit](/attachments/bandwidth-enhanced-oscillator-circuit-diagram.png)
 
 ## Application
 

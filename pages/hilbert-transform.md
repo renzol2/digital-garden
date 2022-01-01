@@ -12,9 +12,9 @@ Within [[audio-signal|audio signal]] processing, the Hilbert Transform moves the
 
 Example: A Hilbert Transformed Square Wave is a [[square-wave|square wave]] made of cosine components (+90 degrees), rather than [[sine-wave|sine]] components. However, despite the change in appearance, they generally sound the same.
 
-![Hilbert Transformed Square Wave](../attachments/hilbert-transformed-square-wave.png)
+![Hilbert Transformed Square Wave](/attachments/hilbert-transformed-square-wave.png)
 
-![P5.js rendition of square wave and its harmonic conjugate](../attachments/square-wave-harmonic-conjugate-khanacademy.png)
+![P5.js rendition of square wave and its harmonic conjugate](/attachments/square-wave-harmonic-conjugate-khanacademy.png)
 
 ## Sources
 

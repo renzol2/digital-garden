@@ -32,7 +32,7 @@ Non-tangible elements include
 - working mindset
 - shared beliefs
 
-![Design system diagram](../attachments/design-system-diagram.png)
+![Design system diagram](/attachments/design-system-diagram.png)
 
 ## Things to Include
 
@@ -63,7 +63,7 @@ Some questions to guide the creation and iteration of a design system:
   - **centralized**: one team is in charge of the Design System and iterates on it. The Design System team works closely with other teams, ensuring the System covers their needs
   - **distributed**: several people _across_ teams work on the System, allowing quicker adoption of the System across different teams but requires team leaders to keep overall vision
 
-![Airbnb design system](../attachments/airbnb-design-system.png)
+![Airbnb design system](/attachments/airbnb-design-system.png)
 
 ## Examples
 

@@ -12,7 +12,7 @@ tags: philippines music instrument kulintang culture ensemble ethnomusicology rh
 
 ## Rhythm
 
-![Duyug/sirong rhythmic mode in cipher](../attachments/duyug-sirong-cipher.png)
+![Duyug/sirong rhythmic mode in cipher](/attachments/duyug-sirong-cipher.png)
 
 In duyug/sirong, all [[palabunibunyan]] players play phrases two beats in length, with emphasis at the beginning of each beat.
 
@@ -23,11 +23,11 @@ In duyug/sirong, all [[palabunibunyan]] players play phrases two beats in length
 
 ## Form
 
-*Duyug/sirong* pieces begin and end with some conventions:
+_Duyug/sirong_ pieces begin and end with some conventions:
 
 - pieces begin with gong 3, sometimes in conjunction with gong 2
 - final section contains new musical phrases and ascent to gong 7
-- *duyug/sirong* pieces always end on gong 3 or 5 on beat 1
+- _duyug/sirong_ pieces always end on gong 3 or 5 on beat 1
 
 ## Sources
 

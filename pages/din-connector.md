@@ -10,7 +10,7 @@ The **DIN connector** is an electrical connector standardized in the early 1970s
 
 The original hardware specification for the [[MIDI]] protocol was the **5-pin DIN connector**.
 
-![5-pin-din-connector](../attachments/midi/5-pin-din-connector.png)
+![5-pin-din-connector](/attachments/midi/5-pin-din-connector.png)
 
 Typical MIDI connections are male on both ends, though there are female-female connectors that allow for daisy changing.
 

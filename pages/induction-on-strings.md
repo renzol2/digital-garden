@@ -13,7 +13,7 @@ Induction is _the_ standard technique for proving statements about recursively d
 
 String-induction proofs have the following boilerplate structure, with an arbitrary definition of being "perfectly cromulent":
 
-![String induction boilerplate](../attachments/string-induction-boilerplate.png)
+![String induction boilerplate](/attachments/string-induction-boilerplate.png)
 
 ## Sources
 

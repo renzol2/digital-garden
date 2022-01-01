@@ -22,7 +22,7 @@ $$
 4. Get the log magnitude spectrum, $log|X(e^{j\omega})|$ (measured in dB)
 5. Take the [[fourier-inversion-theorem|inverse Fourier transform]] to obtain the real cepstrum $c_x[n]$
 
-![Cepstral pitch detection graphs](../attachments/cepstral-pitch-detection-graphs.png)
+![Cepstral pitch detection graphs](/attachments/cepstral-pitch-detection-graphs.png)
 
 ## Notes
 
