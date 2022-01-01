@@ -1,89 +1,39 @@
-# Foamy NextJS Starter
+# renzo's garden 🌿
 
-This starter combines [Foam](https://foambubble.github.io/foam) with [NextJS](https://nextjs.org). I built this using [NextJS with MDX example repo](https://github.com/vercel/next.js/tree/canary/examples/with-mdx) as my base repo. 
+welcome to my digital garden!
 
-## Getting Started
-1. Click on **Use this template** button
-2. Clone the repository locally
- 
-```bash
-cd your-local-repo-name
-npm install 
-# or
-yarn install
+this repository is my primary note-taking tool, made with [Foam](https://foambubble.github.io/) (among other things). any notes i take, whether for class, self-learning, or personal discovery, i will likely add it here.
 
-npm run dev
-# or
-yarn dev
-```
+TODO: add deployment link
 
-Foam requires specific VS Code extensions for it to work properly. Open the repository as a folder using the File > Open... menu item. When prompted to install recommended extensions, click **Install all** (or **Show Recommendations** if you want to review and install them one by one).
+## who is this for?
 
-Open `index.md` in `/pages` directory and edit to your heart's content. All other markdown files and notes folder are examples. Before doing so, I recommend clicking around to see how things work.
+this is for me, mostly 😅 i had used [Notion](https://www.notion.so/) for the past year to organize my class notes and assignments, which worked great for a while.
 
-## How to customize
-I purposefully built this starter to be bare in styling and functionality to leave plenty of room to customize and build on top. 
+however, i needed a way to easily link overlapping concepts and information from the many sources i was consuming - school, social media, friends & family, late night wikipedia rabbit holes, etc.
 
-### Basic Global styles
-I used Gridlover to generate a typography system with modular scale and vertical rhythm. Add your preferred fonts, [choose your own scale](https://www.gridlover.net/try), and replace all styles in `/styles/global.css` between these comments 
-```CSS
-/* begin gridlover perfect fourth scale */
-// ...
-/* end gridlover perfect fourth scale */
-```
+[Foam](https://foambubble.github.io/), and [[zettelkasten|Zettelkasten]] concepts of notetaking as a whole, are my in-progress solution to this problem.
 
-### Syntax highlighting theme
-Add your preferred prism theme CSS file in `/styles` folder and import it to `_app.js`
-```javascript
-import '../styles/prism-theme-night-owl.css'
-```
-You can convert your VS Code theme to use with this tool:
-[VS Code to Prism Themes](https://prism.dotenv.dev/)
+moreover, i also want the information i'm learning from university to be more accessible and placed in context with my own personal interests. so anyone can use this information, regardless of if you're a student - my goal is to use this method of notetaking for as long as i want to keep learning.
 
-*Note:* This uses prism-react-renderer for syntax highlight. It's set to use styles from css so the theme is set to null in CodeBlock component. Refer to [prism-react-renderer FAQ](https://github.com/FormidableLabs/prism-react-renderer#faq) for other methods.
+## how is this made?
 
-### CSS Styling Methods
-NextJS uses CSS Modules by default. [Next JS Docs: Built-In CSS Support](https://nextjs.org/docs/basic-features/built-in-css-support) on how to configure for other methods.
+i used a [template by `yenly` on GitHub that uses Next.js in conjunction with Foam](https://github.com/yenly/foamy-nextjs).
 
-### Siteconfig.js
-`siteconfig.js` is used for populating site name in the Header and Layout components.
-```javascript
-export default {
-  "title": "Foamy NextJS",
-  "description": "Digital Garden built with Foam and NextJS with MDX",
-  "author": "Yenly Ma"
-}
-```
+## oopsies
 
-### Remark and Rehype plugins
-Add/remove plugins in `next.config.js`
-```javascript
-const remarkImages = require('remark-images')
-const remarkExternalLinks = require('remark-external-links')
-const remarkFootnote = require('remark-numbered-footnote-labels')
+this deployment is not perfect. the best way to view this is to download the [repository](https://github.com/renzol2/digital-garden) and use VSCode alongside the Foam VSCode extension (instructions are on the [Foam website](https://foambubble.github.io/foam/#getting-started) but i'll write my own instructions eventually)
 
-const withMDX = require('@next/mdx')({
-  extension: /\.mdx?$/,
-  options: {
-    remarkPlugins: [
-      remarkImages,
-      remarkExternalLinks,
-      [remarkFootnotes]
-    ]
-  },
-})
-```
+i'm keeping a running list of issues with this deployment on the [issues page of the repository](https://github.com/renzol2/digital-garden/issues), but here's a list of things that i know are broken:
 
-### How to upgrade Foam
-[Fork the latest Foam template](https://github.com/foambubble/foam-template). Copy `.vscode` directory to your root level of your repo. Open your workspace and things should magically work. It's Foam's magic sauce. If not, try:
-- update VS Code extensions defined in `.vscode/extensions.json`
-- disable and enable extensions needed and restart VS Code
+- LaTeX isn't working - need to get an MDX plugin for that
+- frontmatter is still rendered when it shouldn't be, leading to all the tags being displayed (they shouldn't be there, or at least should be smaller...)
+- backlinks aren't present, which are useful but something i would have to try implementing myself
 
-### How to deploy
-I pick this stack for its easy [deploy to Vercel](https://nextjs.org/docs/deployment). To deploy under a sub-path on your domain, [use `basePath` option](https://nextjs.org/docs/api-reference/next.config.js/basepath).
+anyway, i'm very indecisive and constantly looking for better solutions, so i might ditch this deployment in favor of something better.
 
-### Recommended Resources
-- [Foam Recipes](https://foambubble.github.io/foam/recipes)
-- [Learn NextJS](https://nextjs.org/learn/basics/create-nextjs-app) or dig into their [Docs](https://nextjs.org/docs/getting-started)
-- [MDXJS](https://mdxjs.com/) 
-  - [MDX Conf 2020](https://egghead.io/playlists/mdx-conf-3fc2) - Demystifying MDX talk is particularly helpful for me as a beginner
+please reach out to me if there's anything that you think should be changed. either way, enjoy! 😊
+
+[//begin]: # "Autogenerated link references for markdown compatibility"
+[zettelkasten|Zettelkasten]: pages/zettelkasten "Zettelkasten"
+[//end]: # "Autogenerated link references"
