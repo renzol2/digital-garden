@@ -6,14 +6,13 @@ tags: music sampling electroacoustic composition synthesis
 
 - [Sampling (composition)](#sampling-composition)
   - [History](#history)
-    - [Early Sampling Instruments](#early-sampling-instruments)
-    - [Digital Sampling Instruments](#digital-sampling-instruments)
+  - [Early Sampling Instruments](#early-sampling-instruments)
+  - [Digital Sampling Instruments](#digital-sampling-instruments)
   - [Techniques and Terminology](#techniques-and-terminology)
-    - [Key terms](#key-terms)
 
 ## History
 
-Broadly, there are two categories of electroacoustic [[music-composition|composition]]:
+Broadly, there are two categories of [[electroacoustic-music|electroacoustic]] [[music-composition|composition]]:
 
 1. [[modulation-synthesis|synthesis]] (generated audio)
 2. sampling (recorded audio)
@@ -28,7 +27,7 @@ Magnetic tape (1930s) enabled more fluid manipulation of recorded audio
 
 - objet sonore
 
-### Early Sampling Instruments
+## Early Sampling Instruments
 
 Operating principles include:
 
@@ -37,52 +36,19 @@ Operating principles include:
 
 In general, all these instruments work to achieve the same thing; creative expression through manipulation of recorded audio.
 
-**Light Tone Organ** (Licht-Tone Organ) - Edwin Welte, Germany, ca. 1936
+- [[light-tone-organ|Light Tone Organ]] (Licht-Tone Organ) - Edwin Welte, Germany, ca. 1936
+- [[phonogene|Phonogène]] - [[pierre-schaeffer|Pierre Schaeffer]], Paris, ca. 1950s
+- [[special-purpose-tape-recorder|Special Purpose Tape Recorder]] - [Hugh Le Caine](https://hughlecaine.com/en/), 1955
+- [[mellotron|Mellotron]] - Birmingham, England, 1963
 
-The Light Tone Organ was a photoelectric instrument:
+## Digital Sampling Instruments
 
-- waveforms encoded as patterns on rotating glass discs
-- discs rotated across photoelectric cells
-- filtered light beam controlling pitch/timbre
-
-It was largely destroyed in 1944 WWII allied bombings.
-
-**Phonogène** - Pierre Schaeffer, Paris, 1950s
-
-- Twelve tape capstans of different diameter
-- Key press engages one capstan and moves a tape loop across a playhead of corresponding speed influencing musical pitch
-
-**Special Purpose Tape Recorder** - [Hugh Le Caine](https://hughlecaine.com/en/), 1955
-
-- capable of playing/recording onto six tape reels simultaneously
-- tape speeds controllable via 3-octave keyboard
-- volume controlled by six touch-sensitive buttons
-
-**Mellotron** - Birmingham, England, 1963
-
-- evolved from the Chamberlin
-- improved design to facilitate mass production
-- polyphonic tape-replay keyboard
-  - uses motorized tape rollers that pinches the tape and runs the tape across a playhead when a key is pressed
-- featured on intro to [_Strawberry Fields Forever_ (The Beatles)](https://open.spotify.com/track/3Am0IbOxmvlSXro7N5iSfZ?si=b8928693a63f412d)
-
-### Digital Sampling Instruments
-
-**Fairlight CMI** (1979)
-
-- Earliest commercial digital sampler workstation - $25k, 8-bit audio (see: [[sampling-signal-processing|sampling in signal processing]])
-- Computer screen touch-sensitive via light pen
-
-**E-Mu Emulator I** (1981)
-
-- has hard drive slot to store sample data
-- $10k, 66 lbs, 128 kB of sample memory
+- [[fairlight-cmi|Fairlight CMI]] (1979)
+- [[e-mu-emulator-i|E-Mu Emulator I]] (1981)
 
 Sampling techniques were greatly enhanced by [[MIDI]] (1983). Numerous other sampling instruments were introduced by Akai, Roland, Kurzweil, Ensoniq.
 
 ## Techniques and Terminology
-
-### Key terms
 
 **keymapping**: assigning samples to [[MIDI]] note numbers
 
@@ -129,4 +95,4 @@ Sampling techniques were greatly enhanced by [[MIDI]] (1983). Numerous other sam
 
 **downsampling**: when an audio sample is transposed (pitch-shifted) upwards, some sampler [[algorithm]]s will skip a number of sample values in the audio file (see: [[sampling-signal-processing|sampling in signal processing]]), in proportion to the amount of pitch-shift specified. Also called **decimation**.
 
-- this process of upward transposition can cause [[aliasing]], which prompts the use of anti-aliasing filters
+- this process of upward transposition can cause [[aliasing]], which prompts the use of [[anti-aliasing-filter|anti-aliasing filters]]

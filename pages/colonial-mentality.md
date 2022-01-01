@@ -1,0 +1,9 @@
+---
+tags:
+---
+
+# Colonial mentality
+
+## Sources
+
+-

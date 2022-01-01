@@ -4,8 +4,21 @@ tags: mus-407 sound sound-properties
 
 # Sound properties
 
-Objective, observable properties of sound include:
+**[[sound-waves|Sound]] properties** can be categorized into _objective_ and _subjective_ characteristics.
 
-- [[docs/frequency|Frequency]]
-- [[amplitude|Amplitude]]
-- [[phase|Phase]]
+Objective, observable, and quantifiable properties of sound include:
+
+- [[Frequency]] and period
+- [[Amplitude]], power, and intensity
+- [[Phase]]
+- [[Spectrum]]
+
+Perceptual, subjective properties of sound include:
+
+- [[Pitch]]
+- [[Loudness]]
+- [[Timbre]]
+
+## Sources
+
+- [MUS 407 Sound, Acoustics, & Psychoacoustics](https://prezi.com/view/ZcqvwosFJCFJQtQrbP75/)

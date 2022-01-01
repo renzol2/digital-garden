@@ -5,15 +5,17 @@
 /* begin gridlover perfect fourth scale */
 html,
 .root {
-  font-size: 17px;
-  line-height: 22px;
+  font-size: 20px;
+  line-height: 20px;
+  padding-left: 1em;
+  padding-right: 1em;
 }
 body,
 .article {
   font-family: "Roboto", sans-serif;
   font-size: 1em;
   line-height: 1.29411765em;
-  max-width: 560px;
+  max-width: 650px;
   margin: auto;
 }
 h1,
@@ -101,8 +103,6 @@ sub {
 .container {
   max-width: 680px;
   margin: auto;
-  padding-left: 1rem;
-  padding-right: 1rem;
 }
 
 .contains-task-list {
@@ -118,7 +118,7 @@ pre {
 }
 
 a {
-  color: #0070f3;
+  color: #9a00f3;
   text-decoration: none;
 }
 

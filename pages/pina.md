@@ -4,7 +4,7 @@ tags: philippines culture piña-fabric
 
 # Piña
 
-**Piña** is a traditional fabric made from pineapple leaves in the Philippines.
+**Piña** is a traditional fabric made from pineapple leaves in the [[Philippines]].
 
 Piña fabric is made in 5 steps:
 

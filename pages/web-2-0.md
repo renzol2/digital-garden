@@ -4,7 +4,7 @@ tags: web-dev computer computer-science internet big-tech data
 
 # Web 2.0
 
-A period of the internet from 2004 and ongoing, where:
+**Web 2.0** is a period of the [[internet]] from 2004 and ongoing, where:
 
 - data is consumed and produced by users
 - the majority of data on the internet is stored by only a few companies in [[big-tech|Big Tech]], leading to heavy centralization

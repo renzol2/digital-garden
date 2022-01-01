@@ -22,5 +22,5 @@ Pressure at a point where multiple sound waves exist equals the sum of pressures
 
 What you perceive (hear) is the sum of all the sound waves reaching your ear. Our brain can parse that information and identify sources.
 
-- A microphone, however, can only perceive a single volume
+- A [[microphones|microphone]], however, can only perceive a single volume
 - Linear superposition explains why we can perceive multiple notes, instruments, waves, etc. even when audio files only exhibit one pressure measurement per sample

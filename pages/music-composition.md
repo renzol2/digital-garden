@@ -31,3 +31,7 @@ However, there are composers, songwriters, and producers who blur the lines betw
 
 - [[hyperpop|Hyperpop]]
 - TODO: add more
+
+## Philosophy
+
+[[why-music|Why do we make music?]]

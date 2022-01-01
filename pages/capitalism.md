@@ -1,0 +1,9 @@
+---
+tags:
+---
+
+# Capitalism
+
+## Sources
+
+-

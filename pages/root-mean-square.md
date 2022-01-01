@@ -8,7 +8,7 @@ The **root mean square** (RMS) is the square _root_ of the _mean_ of a sequence 
 
 $$x_{RMS}=\sqrt{\frac{x^2_1+x^2_2+x^2_3+...+x^2_n}{n}}$$
 
-RMS has several applications, one of which is tracking the [[amplitude]] of an audio signal.
+RMS has several applications, one of which is tracking the [[amplitude]] of an [[audio-signal|audio signal]].
 
 ## Why RMS in audio?
 

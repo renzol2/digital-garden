@@ -4,7 +4,7 @@ tags: music production composition composer composers-forum rhythmicity hybridit
 
 # Rhythmicity and Hybridity
 
-An illusory duality between the acoustic and the electroacoustic
+An illusory duality between the acoustic and the [[electroacoustic-music|electroacoustic]]
 
 - affects the way we perceive acoustic vs electro acoustic writing
 
@@ -45,7 +45,7 @@ An experience in one aspect can lead to revelations in the other. Ex. free divin
 ## Schema
 
 - **Harmony**, the consistency of the whole
-  - pitch content, rhythms, electronics, etc.
+  - [[pitch]] content, rhythms, electronics, etc.
 - **Motion**
   - thickness, porosity, luminosity, density, elasticity of a sound
 - **Procedure**
@@ -65,7 +65,7 @@ An experience in one aspect can lead to revelations in the other. Ex. free divin
 - amplification resulting to electrified sonic entities
   - a different way to experience music
   - new sonic palette
-- threshold between noise and pitch
+- threshold between [[noise]] and pitch
 
 ### Main Points
 
@@ -107,7 +107,7 @@ electronics
 - DSP
 - spatialization of sound
 
-## Extended “acoustics” IR and convolution reverb
+## Extended “acoustics” IR and convolution [[reverb]]
 
 grasping the sonic nuances that emerge during the traditional process
 
