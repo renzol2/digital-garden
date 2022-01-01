@@ -6,12 +6,12 @@ tags: computer-science programming-languages rust
 
 - [Rust](#rust)
   - [Types](#types)
-  - [Standard library (`std`)](#standard-library-std)
+  - [Standard library](#standard-library)
   - [Variables](#variables)
   - [Associated Functions](#associated-functions)
   - [References](#references)
   - [Enums](#enums)
-  - [`match` expression](#match-expression)
+  - [match expression](#match-expression)
   - [Sources](#sources)
 
 **Rust** is a programming language focused on delivering high performance with low-level access alongside an improved developer experience compared to existing low-level languages like C and C++.
@@ -34,9 +34,9 @@ Number types:
   - useful for small, positive numbers
 - `i64`, a 64-bit number
 
-## Standard library (`std`)
+## Standard library
 
-Rust's standard library has many useful packages:
+Rust's standard library (`std`) has many useful packages:
 
 - `std::io` (input/output)
 
@@ -74,7 +74,7 @@ Examples:
 
 - `Result` types, with `Ok` and `Err` variants
 
-## `match` expression
+## match expression
 
 A `match` expression is made up of _arms_.
 
