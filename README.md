@@ -20,7 +20,7 @@ moreover, i also want the information i'm learning from university to be more ac
 
 i used a [template by `yenly` on GitHub that uses Next.js in conjunction with Foam](https://github.com/yenly/foamy-nextjs).
 
-## oopsies
+## oops
 
 this deployment is not perfect. the best way to view this is to download the [repository](https://github.com/renzol2/digital-garden) and use VSCode alongside the Foam VSCode extension (instructions are on the [Foam website](https://foambubble.github.io/foam/#getting-started) but i'll write my own instructions eventually)
 
