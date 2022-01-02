@@ -37,5 +37,6 @@
     }
   },
   "editor.lineNumbers": "off",
-  "workbench.statusBar.visible": false
+  "workbench.statusBar.visible": false,
+  "editor.quickSuggestionsDelay": 30
 }
