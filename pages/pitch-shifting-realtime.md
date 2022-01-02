@@ -24,7 +24,7 @@ To solve the discontinuity problem:
 - create several `R` pointers spaced out along circular queue, all moving at the same speed
 - use [[amplitude-modulation|amplitude modulation]] on each `R` pointer
 - modulate the [[amplitude]] of each `R` pointer's output by unipolar [[sine-wave|sine]]/[[triangle-wave|triangle]] wave
-- control initial [[phase]] of each oscillator so circular queue discontinuity aligns with zero crossing of modulator [[audio-signal|signal]]
+- control initial [[phase]] of each [[oscillator]] so circular queue discontinuity aligns with zero crossing of modulator [[audio-signal|signal]]
 - sum R pointer outputs together
 
 Summed signals (dry + wet) can have phase reinforcement/cancellation issues, but usually makes for a decent real-time harmonizer.
@@ -36,11 +36,13 @@ Summed signals (dry + wet) can have phase reinforcement/cancellation issues, but
 [pitch]: pitch "Pitch"
 [circular-queue|circular buffer]: circular-queue "Circular Queue"
 [sawtooth-wave|sawtooth wave]: sawtooth-wave "Sawtooth wave"
+[waveform]: waveform "Waveform"
 [amplitude-modulation|amplitude modulation]: amplitude-modulation "Amplitude Modulation"
 [amplitude]: amplitude "Amplitude"
 [sine-wave|sine]: sine-wave "Sine wave"
 [triangle-wave|triangle]: triangle-wave "Triangle wave"
 [phase]: phase "Phase"
+[oscillator]: oscillator "Oscillator"
 [audio-signal|signal]: audio-signal "Audio Signal"
 [resonance]: resonance "Resonance"
 [harmonic]: harmonic "Harmonic"

@@ -53,7 +53,7 @@ Modular design led to the introduction of [[modulation-synthesis|modulation synt
 
 Common modules:
 
-- **VCO**: voltage-controlled oscillator
+- **VCO**: voltage-controlled [[oscillator]]
 - **VCF**: voltage-controlled [[filter]]
 - **VCA**: voltage-controlled amplifier
 - **LFO**: low-[[frequency|frequency]] oscillator
@@ -195,6 +195,7 @@ Selected early/notable examples:
 [direct-current|DC]: direct-current "Direct Current"
 [electrical-current|electrical currents]: electrical-current "Electrical Current"
 [modulation-synthesis|modulation synthesis]: modulation-synthesis "Modulation Synthesis"
+[oscillator]: oscillator "Oscillator"
 [filter]: filter "Filter"
 [frequency|frequency]: frequency "Frequency"
 [envelope|envelopes]: envelope "Envelope"
