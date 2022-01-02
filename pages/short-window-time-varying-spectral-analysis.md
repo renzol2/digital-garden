@@ -23,7 +23,7 @@ Short window analysis is best for monophonic, "quasi-harmonic" input sounds.
 
 The following steps are a loose outline of performing short window analysis:
 
-1. Detect pitch of waveform (or ask user)
+1. Detect pitch of [[waveform]] (or ask user)
 2. Select window, which is related pitch period (usually a two-period window), as well as a hope size
 3. Compute amplitude and phase at each window (also referred to as "grain")
 4. String together $A_n(t_0 + m \times N)$ to get amplitude envelope for partial $n$

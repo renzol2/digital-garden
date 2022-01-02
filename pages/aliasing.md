@@ -11,7 +11,7 @@ tags: music mus-407 signal-processing sampling
 
 Imagine a [[sampling-signal-processing|sampled]] analog input with [[spectrum|spectral]] content above $N$.
 
-- Foldover occurs as the waveform is sampled
+- Foldover occurs as the [[waveform]] is sampled
 - Results in unnecessary and/or unwanted interference (either constructive or destructive)
 - Alias frequencies interfere/sum with sub-$N$ frequencies, altering the spectrum
 
@@ -21,7 +21,7 @@ An ADC includes an [[anti-aliasing-filter|anti-alias filter]], which removes ana
 
 A DAC includes a **smoothing filter**.
 
-- reconstruction of an analog signal from raw digital data results in waveform discontinuities ("staircase" shape)
+- reconstruction of an analog signal from raw digital data results in [[waveform]] discontinuities ("staircase" shape)
 - without smoothing, these artifacts produce audible high frequency content
 
 Both classify as [[low-pass-filter|low-pass filter]] whose [[cutoff-frequency|cutoff frequency]] is at or near the [[nyquist-frequency|Nyquist Frequency]].
@@ -37,6 +37,7 @@ _Aliasing_ in general does not exist just in audio, but in _anything_ digital.
 [modulation-synthesis|modulation synthesis]: modulation-synthesis "Modulation Synthesis"
 [sampling-signal-processing|sampled]: sampling-signal-processing "Sampling (Signal Processing)"
 [spectrum|spectral]: spectrum "Spectrum"
+[waveform]: waveform "Waveform"
 [anti-aliasing-filter|anti-alias filter]: anti-aliasing-filter "Anti-aliasing filter"
 [low-pass-filter|low-pass filter]: low-pass-filter "Low pass filter"
 [cutoff-frequency|cutoff frequency]: cutoff-frequency "Cutoff frequency"

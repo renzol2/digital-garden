@@ -20,7 +20,7 @@ A **band-limited sawtooth** is a [[sawtooth-wave|sawtooth wave]] that has been [
 
 Because [[sampling-signal-processing|digital sampling]] has a finite number of samples to represent the sawtooth, each period within the waveform looks a little different; each period has a different peak and amplitude
 
-- in analog, a sawtooth (or any waveform) could be represented perfectly, with no "wiggles"
+- in analog, a sawtooth (or any [[waveform]]) could be represented perfectly, with no "wiggles"
 
 ## Sources
 

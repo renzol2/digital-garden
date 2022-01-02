@@ -35,7 +35,7 @@ Sound waves are **longitudinal** in the air, but often _depicted_ as **transvers
 
 ## Waveforms
 
-**Waveform:** graphical depiction of pressure changes at a point in space over time
+[[Waveform]]: graphical depiction of pressure changes at a point in space over time
 
 - depicts _pressure / time_
 - regular pattern of pressure variations, exhibiting a loss of energy over time

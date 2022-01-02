@@ -38,7 +38,7 @@ All forms of DRP rely on an amplitude [[threshold-drp|threshold]].
 
 DRPs utilize a **detection circuit** or **detection [[algorithm]]** for tracking signal amplitude, which can track either _peak_ or _average_ signal level
 
-**Peak**: instantaneous measurement, captures true waveform peaks: "no sample left unchecked"
+**Peak**: instantaneous measurement, captures true [[waveform]] peaks: "no sample left unchecked"
 
 - more applicable for preventing overloading/clipping.
 

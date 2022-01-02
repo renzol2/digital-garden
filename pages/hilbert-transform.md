@@ -8,7 +8,7 @@ A **Hilbert Transform** is an operation on a wave or signal that imparts a phase
 
 ## Audio Signal Processing
 
-Within [[audio-signal|audio signal]] processing, the Hilbert Transform moves the [[phase]] of any waveform by $\pm90\degree$. This may or may not have any audible changes.
+Within [[audio-signal|audio signal]] processing, the Hilbert Transform moves the [[phase]] of any [[waveform]] by $\pm90\degree$. This may or may not have any audible changes.
 
 Example: A Hilbert Transformed Square Wave is a [[square-wave|square wave]] made of cosine components (+90 degrees), rather than [[sine-wave|sine]] components. However, despite the change in appearance, they generally sound the same.
 

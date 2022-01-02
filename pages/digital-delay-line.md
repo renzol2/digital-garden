@@ -94,7 +94,7 @@ $$y[n] = 0.5 \times x[n] + 0.5 \times x[n-1]$$
 
 Performs averaging function on consecutive sample pairs
 
-Creates a slight smoothing effect on waveform shape, thus attenuating higher frequencies.
+Creates a slight smoothing effect on [[waveform]] shape, thus attenuating higher frequencies.
 
 For a waveform at [[nyquist-frequency|Nyquist frequency]], waveform will be completely nullified (consecutive samples are equal and opposite, yielding a zero average)
 

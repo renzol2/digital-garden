@@ -25,7 +25,7 @@ Among the most common formats are:
 
 - **AIFF** (audio interchange file format)
   - Apple, 1988, `.aiff` or `.aif`
-- **WAVE** (waveform audio file format)
+- **WAVE** ([[waveform]] audio file format)
   - Microsoft/IBM, 1991, `.wav`
 
 Both formats exhibit the following characteristics:

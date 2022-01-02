@@ -9,7 +9,7 @@ tags: mus-407 recording-technology
 > [[sound-waves|sound]] is captured via rapid, periodic series of discrete measurements of an [[electrical-current|electrical signal]] level, called samples (analog-to-digital conversion).
 
 - samples are stored as binary data, usually on a computer
-- waveform is reconstructed from discrete data (digital-to-analog conversion)
+- [[waveform]] is reconstructed from discrete data (digital-to-analog conversion)
 
 Digital recording techniques developed ca. 1975
 
@@ -54,6 +54,7 @@ Specific software tools include:
 [sampling-signal-processing|sampling]: sampling-signal-processing "Sampling (Signal Processing)"
 [sound-waves|sound]: sound-waves "Sound Waves"
 [electrical-current|electrical signal]: electrical-current "Electrical Current"
+[waveform]: waveform "Waveform"
 [compact-disc|Compact Disc (CD)]: compact-disc "Compact Disc (CD)"
 [digital-audio-tape|Digital Audio Tape (DAT)]: digital-audio-tape "Digital Audio Tape (DAT)"
 [digital-audio-file-formats|Digital Audio File Formats]: digital-audio-file-formats "Digital Audio File Formats"

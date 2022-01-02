@@ -15,7 +15,7 @@ In our [[circular-queue|circular buffer]]:
   - polarity (upward/downward slope) affects direction of pitch shift
   - magnitude of slope affects affects interval/distance of pitch shift
 
-Central problem: At different speeds, `R` and `W` will periodically "pass through" each other, where `R` is likely to encounter a waveform discontinuity (heard as a click)
+Central problem: At different speeds, `R` and `W` will periodically "pass through" each other, where `R` is likely to encounter a [[waveform]] discontinuity (heard as a click)
 
 ## Solution/Digital Implementation
 

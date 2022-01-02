@@ -4,7 +4,7 @@ tags: ece-402 dsp synthesis
 
 # Discrete Summation Formula (DSF)
 
-DSFs can be used to generate [[bandlimiting|bandlimited]] waveforms. The DSF technique efficiently evaluates _sums of exponentials_ using the following:
+DSFs can be used to generate [[bandlimiting|bandlimited]] [[waveform|waveforms]]. The DSF technique efficiently evaluates _sums of exponentials_ using the following:
 
 $$
 \sum^K_{k=1} r^k = \frac{r(1-r^K)}{1-r}

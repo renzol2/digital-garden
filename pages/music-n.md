@@ -26,7 +26,7 @@ Punch cards were used for programming early computers. FORTRAN statements were w
 
 Mathews & others continued developing MUSIC
 
-- **MUSIC II** (1958), capable of four simultaneous voices, 16 possible waveforms
+- **MUSIC II** (1958), capable of four simultaneous voices, 16 possible [[waveform|waveforms]]
 - **MUSIC III** (1960), introduction of 'unit generators', more modularity
 - MUSIC IV (1962), 'orchestra/score' paradigm, strongly resembling modern-day descendent, _CSound_
   - Orchestra: define voices and their timbres
