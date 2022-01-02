@@ -8,7 +8,7 @@ The **Special Purpose Tape Recorder** is an early [[sampling-composition|samplin
 
 It is capable of playing and recording onto six tape reels simultaneously. The tape speeds are controllable by a 3-octave keyboard, and the volume is controlled by six touch-sensitive buttons.
 
-![Special purpose tape recorder](/attachments/special-purpose-tape-recorder.png)
+![Special purpose tape recorder](../public/attachments/special-purpose-tape-recorder.png)
 
 ## Sources
 

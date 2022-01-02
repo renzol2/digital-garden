@@ -44,7 +44,7 @@ This method of reassignment leads to better interpolation than [[quadratic-inter
 
 ### Example
 
-![Time frequency reassignment comparison](/attachments/time-frequency-reassignment-comparison.png)
+![Time frequency reassignment comparison](../public/attachments/time-frequency-reassignment-comparison.png)
 
 - a) STFT - retains data for every time $t_n$ and frequency $\omega_n$
   - sometimes called [[phase-vocoder|Phase Vocoder]], although the term has different meanings for different contexts

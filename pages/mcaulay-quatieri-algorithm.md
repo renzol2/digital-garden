@@ -16,7 +16,7 @@ Compared to other [[spectral-analysis|spectral analysis]] techniques:
 - provides information to control a real-time [[additive-synthesis|additive synthesis]] engine
 - by default, generates an arbitrary number of sinusoidal tracks
 
-![MQ Graph](/attachments/mcaulay-quatieri-graph.png)
+![MQ Graph](../public/attachments/mcaulay-quatieri-graph.png)
 
 ## Common Analysis Procedure
 

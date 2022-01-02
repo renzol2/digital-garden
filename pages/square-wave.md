@@ -14,7 +14,7 @@ A square wave is formed by summing only the odd [[partial]]s of the [[harmonic-s
 
 The [[timbre]] of a square wave is distinctly hollow, like a clarinet or closed-end organ pipe
 
-![Square wave in the time domain](/attachments/square-wave-time-domain.png)
+![Square wave in the time domain](../public/attachments/square-wave-time-domain.png)
 
 ## Sources
 

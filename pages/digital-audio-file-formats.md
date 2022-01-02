@@ -63,7 +63,7 @@ Results:
 
 For comparison, the original 1984 Apple Macintosh could hold approximately 2.3 seconds of stereo 44.1/16 uncompressed audio.
 
-![Approximate file sizes for uncompressed audio](/attachments/uncompressed-audio-file-sizes.png)
+![Approximate file sizes for uncompressed audio](../public/attachments/uncompressed-audio-file-sizes.png)
 
 ## Compressed File Formats
 
@@ -106,7 +106,7 @@ bitrate (kbits/sec)
 
 1 min 128 kbps mp3: approx. **1 MB** (about 1/11t the size of CD-quality audio)
 
-![Approximate bitrates and file sizes for stereo audio](/attachments/bitrates-and-file-sizes-for-compressed-audio.png)
+![Approximate bitrates and file sizes for stereo audio](../public/attachments/bitrates-and-file-sizes-for-compressed-audio.png)
 
 ## Sources
 

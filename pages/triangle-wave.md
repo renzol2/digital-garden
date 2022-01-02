@@ -11,7 +11,7 @@ The [[spectrum]] of a triangle wave consists of only odd [[harmonic]]s in the [[
 - [[amplitude]] of the $n$th harmonic = $\frac{1}{n^2}$.
 - harmonics 3, 7, 11, etc. are 180 degrees out of [[phase]]
 
-![Triangle wave in the time domain](/attachments/triangle-wave-time-domain.png)
+![Triangle wave in the time domain](../public/attachments/triangle-wave-time-domain.png)
 
 ## Sources
 

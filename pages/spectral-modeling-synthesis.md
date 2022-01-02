@@ -18,7 +18,7 @@ The inharmonic component is represented everything that is not the harmonic comp
   - as white noise passed through a time-varying [[filter]] (i.e. [[subtractive-synthesis|subtractive synthesis]])
   - in tandem with the harmonic components using [[bandwidth-enhanced-oscillator|BEOs]]
 
-![Spectral modeling synthesis diagram](/attachments/spectral-modeling-synthesis-diagram.png)
+![Spectral modeling synthesis diagram](../public/attachments/spectral-modeling-synthesis-diagram.png)
 
 ## Examples
 

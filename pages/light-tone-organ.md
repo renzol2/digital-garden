@@ -10,7 +10,7 @@ Playback was facilitated by rotating the discs across photoelectric cells, which
 
 It was largely destroyed in 1944 WWII allied bombings.
 
-![Light tone organ](/attachments/light-tone-organ.png)
+![Light tone organ](../public/attachments/light-tone-organ.png)
 
 ## Sources
 

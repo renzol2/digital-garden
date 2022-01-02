@@ -25,7 +25,7 @@ Spectral peak labeling attempts to distinguish between the following:
 - Determine which formula and parameters to best represent the input spectrum
   - For string harmonicity, determine the best $B$ value to represent as many partials as best as possible
 
-![APTuner screenshot](/attachments/aptuner-screenshot.png)
+![APTuner screenshot](../public/attachments/aptuner-screenshot.png)
 
 ## Sources
 

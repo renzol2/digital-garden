@@ -8,7 +8,7 @@ tags: philippines music instrument kulintang culture ensemble
 
 - it is a common rhythmic mode, although it has been developed more recently
 
-![Sinulog a Bagu rhythmic mode](/attachments/sinulog-a-bagu-rhythmic-mode.png)
+![Sinulog a Bagu rhythmic mode](../public/attachments/sinulog-a-bagu-rhythmic-mode.png)
 
 ## Sources
 

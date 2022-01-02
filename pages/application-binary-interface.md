@@ -13,7 +13,7 @@ The main difference between [[application-programming-interface|API]]s and ABIs 
 
 A common convention in ABIs is the _calling convention_, which determines how data is provided as input to, or read as output from, computational routines.
 
-![API vs. ABI diagram](/attachments/api-abi-diagram.png)
+![API vs. ABI diagram](../public/attachments/api-abi-diagram.png)
 
 ## Sources
 

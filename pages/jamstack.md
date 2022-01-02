@@ -16,7 +16,7 @@ Jamstack is used for the following design features:
 - frontend is primarily static-first, with dynamic functionality (through [[javascript|JavaScript]]) only as necessary
 - progressively enhanced with JavaScript only as needed
 
-![Jamstack old vs. new](/attachments/jamstack-old-vs-new.png)
+![Jamstack old vs. new](../public/attachments/jamstack-old-vs-new.png)
 
 ## Sources
 

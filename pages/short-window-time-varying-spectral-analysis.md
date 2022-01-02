@@ -65,7 +65,7 @@ Use of a **two-period raised-cosine window**:
 - $\Delta t$: hop size; usually $\Delta t = N$; $A_n(t)$ and $F_n(t)$ will be computed for $t =$ integer multiples of $t$
   - during synthesis, linear interpolation will be done between these computed values of $A_n(t)$ and $F_n(t)$
 
-![Short window](/attachments/short-window.png)
+![Short window](../public/attachments/short-window.png)
 
 ## Sources
 

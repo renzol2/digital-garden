@@ -6,7 +6,7 @@ tags: mus-305
 
 **Ring modulation** is a form of [[modulation-synthesis|modulation synthesis]] in which two [[audio-signal|signal]]s of [[frequency|frequencies]] $f_1$ and $f_2$ are multiplied, which results in _sum_ and _difference_ tones: $f_1+f_2$ and $|f_1-f_2|$.
 
-![Ring modulation example](/attachments/ring-modulation-example.png)
+![Ring modulation example](../public/attachments/ring-modulation-example.png)
 
 There are two cases:
 

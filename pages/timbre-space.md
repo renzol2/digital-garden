@@ -10,7 +10,7 @@ The **Timbre Space** is an application of [[multidimensional-scaling|multi-dimen
 2. timing (or [[envelope]]) of the attack and decay, from synchronous to asynchronous
 3. amount of [[inharmonicity|inharmonic]] sound in the attack, from high to none
 
-![Timbre space diagram](/attachments/timbre-space.png)
+![Timbre space diagram](../public/attachments/timbre-space.png)
 
 ## Sources
 

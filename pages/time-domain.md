@@ -9,7 +9,7 @@ The **time domain** (in context of audio) is a representation of [[audio-signal|
 - x-axis: time
 - y-axis: amplitude (pressure, [[loudness]], etc.)
 
-![Time domain](/attachments/time-domain.png)
+![Time domain](../public/attachments/time-domain.png)
 
 ## Sources
 

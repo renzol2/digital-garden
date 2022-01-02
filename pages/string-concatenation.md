@@ -17,9 +17,9 @@ $$
 
 Example: computing $\text{NOW} \cdot \text{HERE}$:
 
-![String concatenation example](/attachments/string-concatenation-example.png)
+![String concatenation example](../public/attachments/string-concatenation-example.png)
 
-![String concatenation with recursion](/attachments/string-concatenation-with-recursion.png)
+![String concatenation with recursion](../public/attachments/string-concatenation-with-recursion.png)
 
 ## Sources
 

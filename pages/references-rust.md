@@ -25,7 +25,7 @@ fn calculate_length(s: &String) -> usize {
 
 The diagram shows how the above code creates a reference `&String s` pointing at `String s1`:
 
-![Diagram of references in Rust](/attachments/rust-references-diagram.png)
+![Diagram of references in Rust](../public/attachments/rust-references-diagram.png)
 
 In Rust, references are immutable by default. **Mutable references** are declared explicitly:
 

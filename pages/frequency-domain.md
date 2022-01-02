@@ -9,7 +9,7 @@ The **frequency domain** is a representation of signals or waves (including [[so
 - x-axis: [[frequency]]
 - y-axis: [[amplitude]]
 
-![Frequency domain](/attachments/frequency-domain.png)
+![Frequency domain](../public/attachments/frequency-domain.png)
 
 ## Sources
 

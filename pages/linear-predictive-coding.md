@@ -44,7 +44,7 @@ Prediction weights $a_i$ are chosen to make the residual small (low-energy) and 
 
 Musical use: one sound's spectrum shapes another sound.
 
-![LPC filter diagram](/attachments/LPC-filter-diagram.png)
+![LPC filter diagram](../public/attachments/LPC-filter-diagram.png)
 
 ### LPC Frame Rate
 

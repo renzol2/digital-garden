@@ -14,7 +14,7 @@ let hello = &s[0..5];
 let world = &s[6..11];
 ```
 
-![Slices - example](/attachments/slices-rust-example.png)
+![Slices - example](../public/attachments/slices-rust-example.png)
 
 ## Sources
 

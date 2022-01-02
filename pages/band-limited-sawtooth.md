@@ -12,9 +12,9 @@ A **band-limited sawtooth** is a [[sawtooth-wave|sawtooth wave]] that has been [
   - results in a spectrum with -6 dB/octave slope
 - No energy above $SR/2$ means no aliasing at all
 
-![Band-limited sawtooth waveform](/attachments/band-limited-sawtooth.png)
+![Band-limited sawtooth waveform](../public/attachments/band-limited-sawtooth.png)
 
-![Band-limited sawtooth spectrum](/attachments/band-limited-sawtooth-spectrum.png)
+![Band-limited sawtooth spectrum](../public/attachments/band-limited-sawtooth-spectrum.png)
 
 ## Digital Nuances
 

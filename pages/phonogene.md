@@ -10,7 +10,7 @@ The **Phonogène** is an early [[sampling-composition|sampling]] instrument inve
 
 The phonogène consists of twelve tape capstans of differing diameters. A key press engages on capstone and moves a tape loop across a playhead at a specific rate corresponding to the [[pitch]] of the key being pressed.
 
-![Phonogène](/attachments/phonogene.png)
+![Phonogène](../public/attachments/phonogene.png)
 
 ## Sources
 

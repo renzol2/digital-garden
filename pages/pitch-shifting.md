@@ -26,7 +26,7 @@ This method raises several problems:
 - playing at a lower rate results in high energy buildup near the Nyquist frequency, resulting in artifacts
 - playing at a higher rate results in [[aliasing]]
 
-![Pitch shifting issues](/attachments/pitch-shifting-issues.png)
+![Pitch shifting issues](../public/attachments/pitch-shifting-issues.png)
 
 There are a few fixes to these problems:
 

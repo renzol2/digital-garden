@@ -12,7 +12,7 @@ tags: philippines music instrument kulintang culture ensemble ethnomusicology rh
 
 ## Rhythm
 
-![Duyug/sirong rhythmic mode in cipher](/attachments/duyug-sirong-cipher.png)
+![Duyug/sirong rhythmic mode in cipher](../public/attachments/duyug-sirong-cipher.png)
 
 In duyug/sirong, all [[palabunibunyan]] players play phrases two beats in length, with emphasis at the beginning of each beat.
 

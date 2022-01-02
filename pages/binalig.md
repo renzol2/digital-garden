@@ -26,7 +26,7 @@ Binalig is a common rhythmic mode in [[kulintang]] music. The following sections
 
 ### Harold Andre
 
-![Binalig rhythm](/attachments/binalig-rhythm.png)
+![Binalig rhythm](../public/attachments/binalig-rhythm.png)
 
 In a [[palabunibunyan|kulintang ensemble]], each player follows this basic pattern and improvises rhythms and phrases over it.
 
@@ -34,7 +34,7 @@ In a [[palabunibunyan|kulintang ensemble]], each player follows this basic patte
 
 Binalig pieces consist of two-beat musical phrases with emphasis at the beginning of each beat.
 
-![Duyug/sirong rhythmic mode in cipher](/attachments/duyug-sirong-cipher.png)
+![Duyug/sirong rhythmic mode in cipher](../public/attachments/duyug-sirong-cipher.png)
 
 This base structure is identical to [[duyug-sirong|duyug/sirong]] pieces. However, binalig is distinguished by the following characteristics:
 
