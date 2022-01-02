@@ -24,8 +24,10 @@ i used a [template by `yenly` on GitHub that uses Next.js in conjunction with Fo
 
 this deployment is not perfect. the best way to view this is to download the [repository](https://github.com/renzol2/digital-garden) and use VSCode alongside the Foam VSCode extension (instructions are on the [Foam website](https://foambubble.github.io/foam/#getting-started) but i'll write my own instructions eventually)
 
+by running it locally, you can also use the foam graph to visualize the notes! here's what it looks like so far:
+
+![image](https://user-images.githubusercontent.com/55109467/147862294-4fa7a22e-0863-4d4e-b24c-a90bc2e67e88.png)
+
 i'm keeping a running list of issues with this deployment on the [issues page of the repository](https://github.com/renzol2/digital-garden/issues)
 
-anyway, i'm very indecisive and constantly looking for better solutions, so i might ditch this deployment in favor of something better.
-
-please reach out to me if there's anything that you think should be changed. either way, enjoy! 😊
+anyway, i'm very indecisive and constantly looking for better solutions, so i might ditch this deployment in favor of something better. please reach out to me if there's anything that you think should be changed. enjoy! 😊
