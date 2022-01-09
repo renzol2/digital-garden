@@ -1,5 +1,5 @@
 ---
-tags: data-science tech computer-science industry tech-industry
+tags: data-science tech computer-science industry tech-industry career
 ---
 
 # What it’s like being a data scientist
