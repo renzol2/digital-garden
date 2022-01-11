@@ -12,6 +12,10 @@ tags: programming-languages
 
 Functional programming can be used like a calculator, within an interactive shell (or REPL, for Read-Eval-Print-Loop)
 
+It's good functional programming style to split up a task into many small functions.
+
+- modularity, ease-of-use
+
 ## Languages
 
 An ideal functional [[programming-language|programming language]] exhibits the following characteristics across different contexts:

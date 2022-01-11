@@ -179,6 +179,53 @@ false || e --> e
 
 `&&` and `||` do not always need their right operand to be evaluated; these expressions use "short-circuit evaluation"
 
+## Blocks in Scala
+
+Blocks are used to encapsulate implementation details.
+
+- delimited by braces `{ ... }`
+- contains a sequence of definitions or expressions
+- last element of a bock is an expression that defines its value
+- this return expression can be preceded by auxiliary definitions
+- blocks are themselves expressions; a block may appear everywhere an expression can
+- definitions inside a block are only visible from within the block
+- definitions inside a block *shadow* definitions of the same names outside the block
+- definitions of outer blocks are visible inside a block unless they are shadowed
+
+## Semicolons
+
+Semicolons are mostly optional, but are required when having more than one statement one a single line
+
+```scala
+val y = x + 1; y * y
+```
+
+An issue with Scala's semicolon convention is multiline expressions:
+
+```scala
+someLongExpression
++ someOtherExpression
+```
+
+is interpreted as follows:
+
+```scala
+someLongExpression;
++ someOtherExpression
+```
+
+Here are two ways to overcome this problem:
+
+```scala
+// 1.
+(someLongExpression
++ someOtherExpression)
+
+// 2.
+someLongExpression +
+someOtherExpression
+```
+
 ## Sources
 
 - <https://docs.scala-lang.org/tour/tour-of-scala.html>
