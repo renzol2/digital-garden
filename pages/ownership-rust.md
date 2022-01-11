@@ -1,5 +1,5 @@
 ---
-tags: rust programming-language computer-science
+tags: rust programming-languages computer-science
 ---
 
 # Ownership (Rust)
