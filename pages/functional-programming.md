@@ -25,6 +25,12 @@ Functional languages treat functions as _first-class values_ - functions are ess
 - provides a flexible way to compose programs
 - makes use of [[anonymous-function|anonymous functions]] for passing functions as parameters
 
+Functions are essential abstractions because they let us introduce general methods to perform computations as explicit and named elements in programming.
+
+- abstractions can be combined with higher-order functions to create new abstractions
+- in programming, one must look for opportunities to abstract and reuse
+- the highest level of abstraction is not always the best, but it's good to know the techniques of abstraction to use them when appropriate
+
 ## Languages
 
 An ideal functional [[programming-language|programming language]] exhibits the following characteristics across different contexts:
