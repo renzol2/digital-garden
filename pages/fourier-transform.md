@@ -6,6 +6,11 @@ tags: ece-402
 
 A **Fourier Transform** is a mathematical tool for _frequency decomposition_, used to decompose a signal into its pure, single-frequency components.
 
+- from MUS 409: a mathematical operation mapping a continuous signal to amplitude/phase data corresponding to spectrum
+  - i.e. conversion of time domain to frequency domain
+
+![Time & frequency domain](../public/attachments/time-domain-frequency-domain.png)
+
 In practice, Fourier transforms are often used with [[fourier-inversion-theorem|inverse Fourier transforms]]: reproducing a signal (intensity over time) _from_ a Fourier Transform (intensity in terms of frequency)
 
 The Fourier transform of an intensity vs. time graph, usually $g(t)$, is a new function $\hat{g}(t)$, which:
@@ -28,6 +33,16 @@ Key concepts for understanding this function:
 ## Sound
 
 Fourier transforms are used in [[spectral-analysis|spectral analysis]] to decompose and isolate [[frequency|frequencies]] from [[sound-waves|sound]].
+
+## Example (MUS 409)
+
+- A DFT of a digital recording of Stravinsky's _Rite of Spring_ (or some other really long piece)
+- Treat the entirety of the piece as one period of a complex vibration
+- DFT derives amplitude/phas einformation for the fundamental, 2nd harmonic, 3rd harmonic, etc. through N
+  - note that the "fundamental"i n this case is vastly below our range of hearing - around 0.00056 Hz if the piece is 30 minutes long
+- when summed together, frequency components perfectly reconstruct the original time domain signal
+- FFT tells us the sinusoidal components we need to reconstruct this piece of music in its entirety, but not enough information to tell where components of certain sinusoidal segments of a piece are located
+- To do this, we have to take STFTs
 
 ## Sources
 
