@@ -38,7 +38,7 @@ In detail (MUS 409):
 
 - bin spacing determined by the following equation:
 
-```
+```text
 frequency bin spacing interval = sample rate / window size
 ```
 
@@ -50,8 +50,6 @@ frequency bin spacing interval = sample rate / window size
   - bin 1022: 23976.56 Hz
   - bin 1024: 24000 Hz (N)
   - bin 1024+: contains [[aliasing|aliased]] data; a mirror image of the first half, and is therefore useless
-
-
 
 ## Sources
 
