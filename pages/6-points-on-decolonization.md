@@ -1,5 +1,6 @@
 ---
 tags: decolonization
+type: reading-notes
 ---
 
 # 6 Points on Decolonization

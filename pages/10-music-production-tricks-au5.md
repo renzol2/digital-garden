@@ -1,5 +1,6 @@
 ---
 tags: production
+type: video-notes
 ---
 
 # 10 music production tricks (learnt from Au5)

@@ -32,12 +32,14 @@
     "particleWidth": 1.2,
     "highlightedForeground": "#CC6577",
     "node": {
+      "video-notes": "darkslateblue",
       "music-review": "teal",
-      "daily-note": "purple"
+      "daily-note": "purple",
+      "reading-notes": "darksalmon"
     }
   },
   "editor.lineNumbers": "off",
-  "workbench.statusBar.visible": false,
+  "workbench.statusBar.visible": true,
   "editor.quickSuggestionsDelay": 30,
   "markdownlint.run": "onSave"
 }
