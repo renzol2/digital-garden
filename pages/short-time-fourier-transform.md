@@ -12,7 +12,7 @@ The **Short-time Fourier transform (STFT)** is a [[fourier-transform|Fourier tra
 From MUS 409:
 
 - The **STFT** is an adaptation of the DFT meant to fit real-world, finite-duration sounds
-- in preparation for analysis, the STFT breaks the input signal into short segments (windowing) and applying a particular [[amplitude]] [[envelope]]
+- in preparation for analysis, the STFT breaks the input signal into short segments ([[windowing]]) and applying a particular [[amplitude]] [[envelope]]
   - usually 1 ms to 1 sec
   - amplitude windows usually overlap ("hop size" = 1, 0.5, 0.25)
   - similar windowing concept to that of grains in [[granular-synthesis|granular synthesis]]
@@ -27,6 +27,7 @@ From MUS 409:
 [sine-wave|sinusoidal]: sine-wave "Sine wave"
 [frequency|frequencies]: frequency "Frequency"
 [phase]: phase "Phase"
+[windowing]: windowing "Windowing"
 [amplitude]: amplitude "Amplitude"
 [envelope]: envelope "Envelope"
 [granular-synthesis|granular synthesis]: granular-synthesis "Granular Synthesis"
