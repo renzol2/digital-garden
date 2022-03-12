@@ -1,5 +1,5 @@
 ---
-tags: production
+tags: production music sound-design
 type: video-notes
 ---
 
