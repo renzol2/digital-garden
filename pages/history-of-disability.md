@@ -221,7 +221,7 @@ President's Committee on Employment of the Handicapped
 ## Social Security Disability Insurance (SSDI)
 
 - Social Security Act was revised in 1956 to further assist persons with disabilities
-- Designed to provide income supplements to people who are physically restricted in their ability ot be employed because of a notable disability, usually a physical disability
+- Designed to provide income supplements to people who are physically restricted in their ability to be employed because of a notable disability, usually a physical disability
 - Program for disabled workers under 65 years old
 - Any persons with a disability, regardless of income level, can receive SSDI benefits
 - 2016 - 10 million Americans were collecting SSDI
@@ -229,7 +229,7 @@ President's Committee on Employment of the Handicapped
   - Have a physical or mental condition that prevents them from engaging in any "substantial gainful activity"
   - The condition is expected to last at least 12 months or result in death
   - Under the age of 65
-  - Have accumulated 20 social security credits in the last 10 years prior ot the onset of disability (normally four credits per year)
+  - Have accumulated 20 social security credits in the last 10 years prior to the onset of disability (normally four credits per year)
 
 ## Medicare and Medicaid
 
