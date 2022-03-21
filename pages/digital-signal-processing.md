@@ -1,5 +1,5 @@
 ---
-tags: dsp
+tags: dsp audio-programming
 ---
 
 # Digital signal processing
