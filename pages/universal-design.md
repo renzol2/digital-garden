@@ -26,6 +26,11 @@ tags: rehb-330
   - Insurance coverage, prescriptions, vendors, therapists, specialized maintenance, long waits
 - More aesthetically pleasing
 
+## Everyday examples
+
+- Ergonomic grips
+- Ergonomically designed office furniture
+
 ## Sources
 
 - REHB 330
