@@ -9,7 +9,7 @@ tags: rehb-330
 - 2.2-4.4 per 1,000 live births
 - non-progressive, [[congenital-disorder|congenital]] disability
   - congenital = conditions existing at birth or before birth
-- caused by damage to the brain during pregnancy, birth, or up to three years after bith
+- caused by damage to the brain during pregnancy, birth, or up to three years after birth
 
 Resulting impairments
 

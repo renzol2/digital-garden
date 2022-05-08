@@ -1,5 +1,5 @@
 ---
-tags: rehb-330
+tags: rehb-330 tools-for-independent-living
 ---
 
 # Institutionalization (disabilities)
@@ -31,7 +31,7 @@ New drug therapies were introduced in the 1950s
 
 Community Mental Health Centers Act of 1963
 
-- improved care and humane treatment of persons with mental health/cognitive disabilities 
+- improved care and humane treatment of persons with mental health/cognitive disabilities
 
 ## Deinstitutionalization
 
@@ -64,7 +64,7 @@ A national deinstitutionalization movement was launched in 1965
 - 37% of nursing home residents are under 65 y.o.
 - 22% increase in nursing home residents under 65 y.o. (2004-2011)
   - Fastest growing population
-  
+
 ## Why are young people with disabilities in nursing homes?
 
 - often require assistance to perform activities of daily living
@@ -83,7 +83,7 @@ A national deinstitutionalization movement was launched in 1965
 ## Cost of care
 
 - Attendant care in the community cost about 1/3 of the cost of care provided in a nursing home
-  - Increased upfront costs to hire case manages, aides, find housing, and pay for the otehr things to make home based care work but less expensive in the long term
+  - Increased upfront costs to hire case manages, aides, find housing, and pay for the other things to make home based care work but less expensive in the long term
   - Established programs are cost effective
 
 ## Funding for nursing home vs. community care

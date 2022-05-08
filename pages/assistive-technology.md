@@ -1,12 +1,12 @@
 ---
-tags: rehb-330
+tags: rehb-330 tools-for-independent-living assistive-technology
 ---
 
 # Assistive technology
 
 Assistive Technology Act of 1998 (amended in 2004)
 
-- any item, piece of equipment or product system whether acquired commercially, off the shelf, modified, or customized that is used to increase, maintain, or improve *functional capabilities* of individuals with disabilities
+- any item, piece of equipment or product system whether acquired commercially, off the shelf, modified, or customized that is used to increase, maintain, or improve _functional capabilities_ of individuals with disabilities
 
 Terms with definition
 

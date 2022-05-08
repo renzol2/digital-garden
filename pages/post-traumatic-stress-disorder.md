@@ -1,5 +1,5 @@
 ---
-tags: rehb-330
+tags: rehb-330 disability-foundation
 ---
 
 # Post-Traumatic Stress Disorder (PTSD)
@@ -20,8 +20,8 @@ Impairments of PTSD
 
 Treatments
 
-  - psychotherapy
-  - medications
+- psychotherapy
+- medications
 
 ## Sources
 

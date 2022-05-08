@@ -16,7 +16,7 @@ tags: rehb-330
   - age 40-60
   - slightly more men vs. women
   - members of the military
-  - could be that trauma to the brain affects this disability
+  - could be that trauma to the brain affects this [[disability]]
 - life expectancy
   - 2-5 years after diagnosis
   - 20% live 20 years after diagnosis

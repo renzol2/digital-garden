@@ -1,19 +1,20 @@
 ---
-tags: rehb-330
+tags: rehb-330 disability-foundation
 ---
 
 # Disability Studies
 
-**Disability studies** are an interdisciplinary studies composed of concepts, cultures, and personal experiences focused on understanding of the human experience of disability.
+**Disability studies** are an interdisciplinary studies composed of concepts, cultures, and personal experiences focused on understanding of the human experience of [[disability]].
 
 - moving away from pity and "being sorry for" disabled people, and rather looking at people as individuals
 
 ## Definition of Disability
 
 There is no single, universally accepted definition of disability.
+
 - multiple definitions used for purposes of entitlement to public or private income support programs, government services, or statistical analysis
 
-The most frequent appplied framework of disability comes from [[nagi-disablement-model|Nagi's disablement model]] from 1969.
+The most frequent applied framework of disability comes from [[nagi-disablement-model|Nagi's disablement model]] from 1969.
 
 ## Why study this field?
 
@@ -35,7 +36,7 @@ Disability studies is a relatively new field
 - 17% of the world's population is disabled
 - 19% of Americans are disabled
   - 12% have a severe disability
-  - 33% are cognivitive in nature (invisible)
+  - 33% are cognitive in nature (invisible)
   - 50% are >65 years old
 - 5.2% school aged children (2.8 million)
 

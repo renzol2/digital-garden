@@ -1,5 +1,5 @@
 ---
-tags: rehb-330
+tags: rehb-330 tools-for-independent-living
 ---
 
 # Universal Design
