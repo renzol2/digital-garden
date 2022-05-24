@@ -1,5 +1,5 @@
 ---
-tags: algorithm computer-science
+tags: algorithms computer-science
 ---
 
 # Algorithm

@@ -1,5 +1,5 @@
 ---
-tags: ece-402 dsp spectral-analysis algorithm
+tags: ece-402 dsp spectral-analysis algorithms
 ---
 
 # McAulay-Quatieri Algorithm

@@ -1,5 +1,5 @@
 ---
-tags: dsp audio-programming audio algorithm
+tags: dsp audio-programming audio algorithms
 ---
 
 # Freeverb

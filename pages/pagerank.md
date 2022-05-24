@@ -1,5 +1,5 @@
 ---
-tags: algorithm web-dev
+tags: algorithms web-dev
 ---
 
 # PageRank

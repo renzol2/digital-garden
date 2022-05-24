@@ -1,5 +1,5 @@
 ---
-tags: cs-374 algorithm
+tags: cs-374 algorithms
 ---
 
 # Dynamic Programming
