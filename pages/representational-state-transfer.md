@@ -1,5 +1,5 @@
 ---
-tags:
+tags: api
 ---
 
 # REST: Representational State Transfer

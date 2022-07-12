@@ -4,7 +4,11 @@
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
   "[markdown]": {
-    "editor.quickSuggestions": false
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
+    }
   },
   "files.defaultLanguage": "markdown",
   "files.exclude": {
@@ -23,8 +27,8 @@
   "pasteImage.showFilePathConfirmInputBox": true,
   "prettier.singleQuote": false,
   "editor.inlineSuggest.enabled": false,
-  "workbench.colorTheme": "Horizon",
-  "editor.fontFamily": "Cascadia Mono",
+  "workbench.colorTheme": "Quiet Light",
+  "editor.fontFamily": "Fantasque Sans Mono",
   "markdown.preview.fontSize": 13,
   "markdown.preview.lineHeight": 1.5,
   "foam.graph.style": {
@@ -38,7 +42,7 @@
       "reading-notes": "darksalmon"
     }
   },
-  "editor.lineNumbers": "off",
+  "editor.lineNumbers": "on",
   "workbench.statusBar.visible": true,
   "editor.quickSuggestionsDelay": 30,
   "markdownlint.run": "onSave"
