@@ -1,5 +1,5 @@
 ---
-tags: tech ui-ux
+tags: tech design
 ---
 
 # Design System
