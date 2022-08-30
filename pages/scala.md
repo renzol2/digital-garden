@@ -1,5 +1,5 @@
 ---
-tags: computer-science
+tags: computer-science functional-programming programming-languages
 ---
 
 # Scala
