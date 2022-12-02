@@ -27,7 +27,7 @@
   "pasteImage.showFilePathConfirmInputBox": true,
   "prettier.singleQuote": false,
   "editor.inlineSuggest.enabled": false,
-  "workbench.colorTheme": "Solarized Light",
+  "workbench.colorTheme": "MacOS Modern Light - Ventura Xcode",
   "editor.fontFamily": "Fantasque Sans Mono",
   "markdown.preview.fontSize": 14,
   "markdown.preview.lineHeight": 1.5,
