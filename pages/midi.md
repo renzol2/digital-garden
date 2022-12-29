@@ -4,20 +4,6 @@ tags: midi music mus-407 mus-305 electroacoustic
 
 # MIDI
 
-- [MIDI](#midi)
-  - [History](#history)
-  - [Hardware](#hardware)
-  - [Devices](#devices)
-  - [Channels & Messages](#channels--messages)
-    - [MIDI Channels](#midi-channels)
-    - [MIDI Messages](#midi-messages)
-      - [Channel messages](#channel-messages)
-      - [System messages](#system-messages)
-    - [MIDI Message Format](#midi-message-format)
-    - [Other Common Message Types](#other-common-message-types)
-    - [General MIDI](#general-midi)
-  - [MIDI and Tuning](#midi-and-tuning)
-
 **Musical Instrument Digital Interface, or MIDI**, is a digital [[communication-protocol|communication protocol]] enabling musical systems and instruments to exchange basic information about
 
 - consists of discrete messages
